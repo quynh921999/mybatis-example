@@ -1,0 +1,7 @@
+Type,Name
+Class,mapper.entity.Service
+Method,mapper.entity.Service.Service
+Method,mapper.Mapper.validationSmt
+Method,controller.Service.handle
+Class,controller.ServiceImpl
+Method,controller.ServiceImpl.handle
